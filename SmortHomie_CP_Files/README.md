@@ -1,1 +1,1 @@
-#Files from SmortHomie are stored in this directory
+# Files from SmortHomie are stored in this directory
